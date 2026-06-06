@@ -33,3 +33,8 @@ A normal student from Morocco <img src="https://i.imgur.com/a2KhTyR.gif" alt="."
   <img src="https://i.pinimg.com/originals/0f/ca/0c/0fca0c5c79d71d39112b4936992a0676.gif" width="100%" alt="sparkle divider" />
 </div>
 <br>
+<div align="center">
+  <a href="https://discord.com/users/1137385796006056086">
+    <img src="./astrσ/DscPfp.png" alt="My Discord Profile" width="600" />
+  </a>
+</div>
