@@ -30,6 +30,6 @@ A normal student from Morocco <img src="https://i.imgur.com/a2KhTyR.gif" alt="."
 
 <br>
 <div align="center">
-  <img src="https://i.imgur.com/dBAyA.gif" width="100%" alt="sparkle divider" />
+  <img src="https://i.pinimg.com/originals/0f/ca/0c/0fca0c5c79d71d39112b4936992a0676.gif" width="100%" alt="sparkle divider" />
 </div>
 <br>
