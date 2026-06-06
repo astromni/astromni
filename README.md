@@ -16,3 +16,20 @@ A normal student from Morocco <img src="https://i.imgur.com/a2KhTyR.gif" alt="."
     ⭕ [Osu!](https://osu.ppy.sh/)
     ⚔️ [HI3rd](https://honkaiimpact3.hoyoverse.com/asia/vi-vn/home)
     🌌 [Honkai: Star Rail](https://hsr.hoyoverse.com/vi-vn/home)
+<br>
+<div align="center">
+  <p>✧･ﾟ: *✧･ﾟ:*    *:･ﾟ✧*:･ﾟ✧</p>
+</div>
+<br>
+
+### 💻 My Tech Skill Tree
+
+* ⚔️ **Main weapons of choice:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" alt="Node"/> [Node.js](https://nodejs.org/) and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="16" alt="TS"/> TypeScript
+* 📜 **Able to decipher the ancient runes of:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" alt="Python"/> [Python](https://www.python.org/), <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="16" alt="C#"/> C#, and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="16" alt="Java"/> Java
+* 🌱 **Currently leveling up my stats in:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="16" alt="Go"/> [Go](https://go.dev/) and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16" alt="JS"/> JavaScript
+
+<br>
+<div align="center">
+  <img src="https://i.imgur.com/dBAyA.gif" width="100%" alt="sparkle divider" />
+</div>
+<br>
