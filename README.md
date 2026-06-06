@@ -35,6 +35,6 @@ A normal student from Morocco <img src="https://i.imgur.com/a2KhTyR.gif" alt="."
 <br>
 <div align="center">
   <a href="https://discord.com/users/1137385796006056086">
-    <img src="./astrσ/DscPfp.png" alt="My Discord Profile" width="600" />
+     <img src="https://i.postimg.cc/prRhTB99/profiledsc.png" alt="My Discord Profile" width="600" />
   </a>
 </div>
