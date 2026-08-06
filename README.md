@@ -11,11 +11,11 @@
 A normal student from Morocco <img src="https://i.imgur.com/a2KhTyR.gif" alt="." width="16" height="16" />
 
 * 🎮 **I enjoy playing:** Open-world, FPS Games, Adventure, Gacha Games, Rhythm *and some lewd visual novels (shhh, don't tell anyone! 🫣)* 
-  * ↳ **Some of my favorites:** 
-    🎸 [Muse Dash](https://store.steampowered.com/app/774171/Muse_Dash/)
-    ⭕ [Osu!](https://osu.ppy.sh/)
-    ⚔️ [HI3rd](https://honkaiimpact3.hoyoverse.com/asia/vi-vn/home)
-    🌌 [Honkai: Star Rail](https://hsr.hoyoverse.com/vi-vn/home)
+  - ↳ **Some of my favorites:**
+    🔫 [VALORANT](https://playvalorant.com/)
+    💣 [Counter-Strike 2](https://store.steampowered.com/app/730/CounterStrike_2/)
+    ⭕ [osu!](https://osu.ppy.sh/)
+    🟨 [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/)
 <br>
 <div align="center">
   <p>✧･ﾟ: *✧･ﾟ:*    *:･ﾟ✧*:･ﾟ✧</p>
@@ -26,7 +26,7 @@ A normal student from Morocco <img src="https://i.imgur.com/a2KhTyR.gif" alt="."
 
 * ⚔️ **Main weapons of choice:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" alt="Node"/> [Node.js](https://nodejs.org/) and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="16" alt="TS"/> TypeScript
 * 📜 **Able to decipher the ancient runes of:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" alt="Python"/> [Python](https://www.python.org/), <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="16" alt="C#"/> C#, and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="16" alt="Java"/> Java
-* 🌱 **Currently leveling up my stats in:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="16" alt="Go"/> [Go](https://go.dev/) and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16" alt="JS"/> JavaScript
+* 🌱 **Currently leveling up my stats in:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16" alt="JS"/> JavaScript
 
 <br>
 <div align="center">
